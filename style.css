@@ -308,6 +308,7 @@ body {
   .songinfo,
   .songtime {
     width: auto;
+    margin-right: 7px;
   }
 
   .close {
