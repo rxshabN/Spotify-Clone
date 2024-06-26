@@ -315,6 +315,10 @@ body {
     display: block;
   }
 
+  .play1 {
+    margin-top: 50px;
+  }
+
   .left .close {
     position: absolute;
     top: 25px;
