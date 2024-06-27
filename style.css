@@ -341,7 +341,7 @@ body {
   }
 
   .hamburger {
-    display: block;
+    display: hidden;
     cursor: pointer;
   }
 
